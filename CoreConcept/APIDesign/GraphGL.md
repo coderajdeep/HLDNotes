@@ -42,5 +42,4 @@ Query        → Request/Response
 Mutation     → Request/Response
 Subscription → Long-lived connection + Server updates
 ```
-
-[ChatGPT Link](https://chatgpt.com/share/6a9edd53-6314-83ee-92b3-6b1e3a67901e)
+<a href="https://chatgpt.com/share/6a9edd53-6314-83ee-92b3-6b1e3a67901e" target="_blank" rel="noopener noreferrer">ChatGPT Link</a>
